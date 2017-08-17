@@ -1,0 +1,1 @@
+Given a string: AAABBAABBBBBCCCDDCC. Covert this string into A3B2A2B5C2C3D2 and then print sorted by letter first and the index second: A2A3B2B5C2C3D2
